@@ -1,0 +1,8 @@
+@lxpanel --profile LXDE-pi
+@pcmanfm --desktop --profile LXDE-pi
+@xscreensaver -no-splash
+@point-rpi
+@sh /boot/pi_setup/launch.sh
+@xset s off
+@xset -dpms
+@xset s no blank

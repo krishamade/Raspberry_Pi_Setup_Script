@@ -1,0 +1,1 @@
+sudo lxterminal --command="/bin/bash --init-file '/boot/pi_setup/raspi-dash-setup.sh'"
